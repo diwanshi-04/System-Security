@@ -24,4 +24,4 @@ for char in cipher_text:
     else:
         plain_text+=char
 
-print("Dechiphered Text:", plain_text
+print("Dechiphered Text:", plain_text)
